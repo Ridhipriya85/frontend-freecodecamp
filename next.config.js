@@ -5,7 +5,7 @@ module.exports = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "openweathermap.org",
+        hostname: "codecamp.org",
       }
     ]
   }
